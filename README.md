@@ -1,1 +1,4 @@
-# GUI-Qt-OpenCV
+# GUI PROGRAM
+
+The program writes with Qt creator. 
+
